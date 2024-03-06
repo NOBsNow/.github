@@ -8,7 +8,7 @@ As advocates for transparency, freedom, and supporting our community, we strive 
 
 Please consider supporting our small family business serving Florida's Space Coast!
 
-/[site](https://github.com/nobsnow/site)
+/[nobsnow.com](https://github.com/nobsnow/nobsnow.com)
 >The rewrite of our main website, under active development.
 
 /[menu](https://github.com/nobsnow/menu)
